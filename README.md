@@ -46,6 +46,8 @@ Comenzamos a generar roles:
 
 ![image](https://github.com/user-attachments/assets/f3ba9465-6b78-4537-9f79-d71c5316bbc5)
 
+Hacmes la prueba si se generan los roles desde la salida de la terminal:
+
 ![image](https://github.com/user-attachments/assets/955edd59-f33b-48f7-b48a-439222a92c5d)
 
 ![image](https://github.com/user-attachments/assets/198f7282-2da5-4572-85cf-4d04b40a62a8)
