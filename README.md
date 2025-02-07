@@ -77,13 +77,111 @@ estos mismo fucionaran como metodos para las interfaces:
 
 ![image](https://github.com/user-attachments/assets/0b8657a2-53cb-4ca2-8d51-394babeb2539)
 
+Verificamos los DAO0s que se gardene n la bdd:
+
 ![image](https://github.com/user-attachments/assets/254673a8-6f7b-4439-87fd-fecd071fc6c6)
 
 ![image](https://github.com/user-attachments/assets/a196c641-6582-4f3a-9e85-9c6c0bb4d44b)
 
+Creamos la libreria itext5 para genrar pdfs:
+
 ![image](https://github.com/user-attachments/assets/741fcc57-277d-4605-a00b-294d94997e0a)
 
+Creamos la clase para genarar pdfs:
 
+![image](https://github.com/user-attachments/assets/aa6795c1-1bdd-40e7-93fc-3a281fb21baf)
+
+![image](https://github.com/user-attachments/assets/f8d67239-b7e0-466d-b72e-36a7581040d8)
+
+![image](https://github.com/user-attachments/assets/80248d4e-7579-4dcd-9f32-ff7bee9d39ca)
+
+hacemos la prueba y veremos que se envia al escritorio: 
+
+![image](https://github.com/user-attachments/assets/dbdb0249-d039-4aeb-a3ff-f1a178017142)
+
+donde nos dara este tipo de pdf: 
+
+![image](https://github.com/user-attachments/assets/a58d8a5d-b3d5-40e9-beee-0eb8f96eef7e)
+
+Luego pasamos a la parte ams importante generar las interfaces:
+
+![image](https://github.com/user-attachments/assets/4cd920e2-d55b-4851-aa45-5963143842e6)
+
+Gneramos todoas estos con UI Forms para genrar las interfaces como podran ver las interfaces les dimos este diseño:
+
+![image](https://github.com/user-attachments/assets/a7c8bc88-6b50-4def-9d74-04da8634996e)
+
+![image](https://github.com/user-attachments/assets/e0d197af-2189-4bef-9d0d-c03ae139a706)
+
+![image](https://github.com/user-attachments/assets/7beac651-5526-4e04-b5eb-4d6da5f77016)
+
+![image](https://github.com/user-attachments/assets/45ee12fa-247c-4e2e-b0dd-7925ca19075a)
+
+Con eso tendraiamos la interfaces de los logins y registros:
+
+Ahora pasamos con los Dahboards: 
+
+![image](https://github.com/user-attachments/assets/c75e6f51-7005-4a36-a92c-45a912d7383a)
+
+![image](https://github.com/user-attachments/assets/c5ed1f2c-469f-404a-a3cd-acbce2528781)
+
+![image](https://github.com/user-attachments/assets/ec0304fd-d0c6-42ad-82aa-c45396a3af0b)
+
+ya genrredas todas las ui's de nuestras interfaces: pasamos con la parte logica de cada uno
+como se mostrara a conticuacion:
+
+![image](https://github.com/user-attachments/assets/379fc099-a525-4922-bcb3-72fbcf284639)
+![image](https://github.com/user-attachments/assets/5f33bd37-1dd2-4492-9bca-87c9790d5a6c)
+![image](https://github.com/user-attachments/assets/b4bdbf33-8dea-455e-a640-be1dd0640f62)
+![image](https://github.com/user-attachments/assets/efc0b43e-c350-49d7-af28-ad442c91f050)
+![image](https://github.com/user-attachments/assets/15af01c1-6894-4502-bb20-300e919d4f51)
+![image](https://github.com/user-attachments/assets/3dbdf7cd-bcb6-406b-9c27-a94c56d3a7a3)
+![image](https://github.com/user-attachments/assets/198d01cd-d608-4397-a7bd-1761240a743b)
+
+Como se puede observar la logica es mucho mas densa que cualquier otra parte del codigo y ademas es donde esta el
+crud o las funciones referente  a estos en las siguientes iamgenes se presentaran las siguientes clases de las 
+interfaces Dashboard:
+
+![image](https://github.com/user-attachments/assets/1a56891b-379b-429a-8abc-bc49e76cdeb9)
+![image](https://github.com/user-attachments/assets/6eb3b947-a8f4-4a6c-ba4c-2251efede1e6)
+![image](https://github.com/user-attachments/assets/3d0c120c-2264-49b3-9004-ffd1ea546470)
+![image](https://github.com/user-attachments/assets/4761aee3-c51c-4e5f-bff3-232df0d22ee9)
+![image](https://github.com/user-attachments/assets/ebb81a72-923e-41ed-957b-feb211c89d4c)
+![image](https://github.com/user-attachments/assets/08de8bfe-a0d9-4767-be66-02c99b2f47a4)
+![image](https://github.com/user-attachments/assets/126c70aa-a018-4c45-8c8f-216da5d57232)
+
+![image](https://github.com/user-attachments/assets/f72dfc2d-6410-420c-976b-f62f3334b84a)
+![image](https://github.com/user-attachments/assets/40ca0cb5-d4e6-45ab-bb61-48fbdb41a9a7)
+![image](https://github.com/user-attachments/assets/67514aad-0b14-40a8-8c76-5043dd3cfc43)
+![image](https://github.com/user-attachments/assets/fa47ca21-b7f8-42c9-a92a-c88488c3074f)
+![image](https://github.com/user-attachments/assets/7fc96b1b-108c-4559-9ccc-12a4167baae5)
+
+Ahora pasamos con la logica de los registros que s menos compleja  densa que los dashboards:
+
+![image](https://github.com/user-attachments/assets/fd7ebda9-a1f3-4f3c-86ea-70c3d79356cf)
+![image](https://github.com/user-attachments/assets/d10fb495-e2c2-432d-a489-8743dc380056)
+![image](https://github.com/user-attachments/assets/e3774f0f-186c-4136-97e2-157b6b2d30cf)
+![image](https://github.com/user-attachments/assets/fdf778ff-5b8d-4cc8-8e5a-ac1ea89e6664)
+![image](https://github.com/user-attachments/assets/22abd0dc-3157-49fb-b02e-716cf8c47aa9)
+![image](https://github.com/user-attachments/assets/13bff158-b777-43bd-846a-b7c6a5fed186)
+![image](https://github.com/user-attachments/assets/d13c93c5-4ff5-4447-872d-73fbb43fb08b)
+![image](https://github.com/user-attachments/assets/f824664c-cb2d-4f0a-b8e9-8aa568c09ef7)
+![image](https://github.com/user-attachments/assets/f75f4651-dfef-4f04-abb5-c4b667ba3f43)
+![image](https://github.com/user-attachments/assets/654c13e3-f719-481b-8458-71477b2d69ed)
+![image](https://github.com/user-attachments/assets/d867634b-8d9c-45d0-be1f-97fa6b46d3dd)
+![image](https://github.com/user-attachments/assets/e7cdfd12-2f74-428b-9ecc-bfda3c29e818)
+![image](https://github.com/user-attachments/assets/620c9f76-7e7d-425a-bc77-a1a842c01c40)
+![image](https://github.com/user-attachments/assets/eac2c54e-6ee3-48fe-a475-b08102cca36f)
+
+Con todo esto listo pasamos a ver la interfaz como se vera a continuacion:
+
+![image](https://github.com/user-attachments/assets/a98dd6ce-e95b-4bf9-b41a-1031be1d7f20)
+![image](https://github.com/user-attachments/assets/dde4ff1c-83a3-43ab-97af-2853d3e96ed4)
+![image](https://github.com/user-attachments/assets/cfb6d131-3850-42e4-8bb3-f6d69198b918)
+![image](https://github.com/user-attachments/assets/337d7911-d76d-4295-b147-4d3216eabfad)
+![image](https://github.com/user-attachments/assets/3e0c8a97-8495-47aa-a0da-57d641f86185)
+
+AShora un breve informe mas detallado del proyecto:
 
 # Informe de Desarrollo y Correcciones en el Proyecto RentEasy
 
