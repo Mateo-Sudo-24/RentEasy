@@ -1,4 +1,7 @@
 # RentEasy
+
+LINK DE YOUTUBE: https://youtu.be/7KVEDEOOyec
+
 En primer lugar creamos nuestra bas de datos en mongo DB como esta de muestra en la imagen:
 ![image](https://github.com/user-attachments/assets/b9f8f7fd-4db0-4ac1-9131-4a81e223e3d6)
 
