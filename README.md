@@ -3,6 +3,7 @@ En primer lugar creamos nuestra bas de datos en mongo DB como esta de muestra en
 ![image](https://github.com/user-attachments/assets/b9f8f7fd-4db0-4ac1-9131-4a81e223e3d6)
 
 Creamos las colleciones donde vamos a guardar las casas transacciones y datos
+
 ![image](https://github.com/user-attachments/assets/7f7e350c-21d5-4771-8bce-3b76dc69ad4d)
 
 ![image](https://github.com/user-attachments/assets/e19b9d71-1184-4f5e-a201-1182f66cccfb)
