@@ -20,6 +20,8 @@ Luego confirmaos todo esto desde el main mandadno un mensaje de conexion
 
 ![image](https://github.com/user-attachments/assets/92786f93-bc16-4c29-8916-7789a27b3ad0)
 
+Luego generamos la estrucutura de como relizaremos el proyecto
+
 ![image](https://github.com/user-attachments/assets/2fa851be-6d00-4202-a585-41d0c8cbeaaa)
 
 ![image](https://github.com/user-attachments/assets/3f160781-5f0c-45f0-8a1c-49df60abdf2e)
