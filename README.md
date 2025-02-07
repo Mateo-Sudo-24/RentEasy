@@ -6,7 +6,11 @@ Creamos las colleciones donde vamos a guardar las casas transacciones y datos
 
 ![image](https://github.com/user-attachments/assets/7f7e350c-21d5-4771-8bce-3b76dc69ad4d)
 
+Creamos la clase conexion con las funciones necesarias para tener la BDD en nuestro proyecto
+
 ![image](https://github.com/user-attachments/assets/e19b9d71-1184-4f5e-a201-1182f66cccfb)
+
+Luego confirmaos todo esto desde el main mandadno un mensaje de conexion
 
 ![image](https://github.com/user-attachments/assets/e3dfe1f9-cbac-4623-aade-fea5ed6809dc)
 
