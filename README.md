@@ -64,6 +64,8 @@ Creamos los modelos de nuestro proyecto:
 
 ![image](https://github.com/user-attachments/assets/43ac3dd8-d52f-4a1c-b7d2-cf7f79f617b1)
 
+Gneramos la prueba para los roles desde el Main:
+
 ![image](https://github.com/user-attachments/assets/772afdb7-2c11-4559-a7e3-f1ab1f785a83)
 
 ![image](https://github.com/user-attachments/assets/181825de-385d-41a5-b4bb-7ccdd0877947)
