@@ -34,6 +34,8 @@ Luego generamos la estrucutura de como relizaremos el proyecto
 
 ![image](https://github.com/user-attachments/assets/7c3d9303-0017-456d-a104-f9ddf9d15920)
 
+Comenzamos a generar roles:
+
 ![image](https://github.com/user-attachments/assets/36152815-497d-4cda-96cc-26960f54c8e4)
 
 ![image](https://github.com/user-attachments/assets/e7bdaac4-8643-4bca-8a45-b836d2384fb8)
