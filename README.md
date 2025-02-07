@@ -68,6 +68,9 @@ Gneramos la prueba para los roles desde el Main:
 
 ![image](https://github.com/user-attachments/assets/772afdb7-2c11-4559-a7e3-f1ab1f785a83)
 
+Luego gneramos Los DAO's que son los que controlaran la Data de nuestro proyecto mas adelante
+estos mismo fucionaran como metodos para las interfaces:
+
 ![image](https://github.com/user-attachments/assets/181825de-385d-41a5-b4bb-7ccdd0877947)
 
 ![image](https://github.com/user-attachments/assets/d3681ef9-931e-46f3-a8b3-c620b0fb6fdb)
